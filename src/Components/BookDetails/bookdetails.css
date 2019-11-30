@@ -1,0 +1,9 @@
+#detailsSection {
+  padding: 15px;
+  box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.3);
+  background-color: white;
+}
+#allAbout {
+  text-align: justify;
+  margin-top: 25px;
+}

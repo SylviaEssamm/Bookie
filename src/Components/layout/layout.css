@@ -1,0 +1,30 @@
+@import "~antd/dist/antd.css";
+.logo {
+  padding-top: 35px;
+  color: #ffffff;
+  font-size: 38px;
+  line-height: 40px;
+  display: flex;
+}
+.ant-layout-header {
+  background: transparent;
+  position: absolute;
+  z-index: 100;
+  padding: 0px 150px;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.left-menu {
+  display: flex;
+  align-items: flex-end;
+  margin-left: 200px;
+}
+.ant-menu-horizontal {
+  border-bottom: none;
+}
+.ant-menu-horizontal .ant-menu-item > a {
+  color: #ffffff;
+}
